@@ -1,6 +1,6 @@
 # fullstack-blog
 
-> a vue + node +[D [Dmongodb project
+> a vue + node + mongodb project
 
 ## Build Setup
 
