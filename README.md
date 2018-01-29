@@ -2,6 +2,10 @@
 
 > a vue + node + mongodb project
 
+前台使用的vue + vue-router做的界面
+
+后台使用的express + mongodb做的一个个人博客
+
 ## Build Setup
 
 ``` bash
